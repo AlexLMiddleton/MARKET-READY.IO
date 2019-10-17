@@ -28,7 +28,7 @@ const IndexPage = ({siteTitle, siteDescription}) => {
           <div style={{padding: 15}}>
             <h3 className="is-size-3 is-size-4-mobile has-text-white has-text-weight-semibold" style={{paddingBottom: 15}}>{data.contentfulHomepage.homepageSubheader}</h3>
             <h4 className="is-size-4 is-size-5-mobile has-text-white" style={{paddingBottom: 15}}>
-              Want better Google rankings?  Enter your URL below to receive a customized 
+              Enter your URL below to receive a customized 
               report on your site's strengths and weaknesses.
             </h4>
             <div className="field">
